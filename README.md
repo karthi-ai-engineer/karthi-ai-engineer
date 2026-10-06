@@ -10,7 +10,12 @@
   <img src="https://img.shields.io/badge/Based_in-Tokyo,_Japan_%C2%B7_Chennai,_India-BC002D?style=for-the-badge" alt="Based in Tokyo, Japan and Chennai, India" />
   <a href="mailto:karthi.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/karthi04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://buymeacoffee.com/karthiaienq"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/karthiaienq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F59E0B&center=true&vCenter=true&width=560&lines=Like%20my%20work%3F%20Buy%20me%20a%20coffee%20%E2%98%95;Need%20an%20AI%20app%20built%3F%20Let%27s%20talk%20%F0%9F%92%AC" alt="Like my work? Buy me a coffee" /></a>
+  <br/>
+  <a href="https://buymeacoffee.com/karthiaienq"><img src="https://raw.githubusercontent.com/karthi-ai-engineer/karthi-ai-engineer/main/assets/buy-me-a-coffee.svg" alt="Buy me a coffee" width="240" /></a>
 </p>
 
 ---
