@@ -22,7 +22,7 @@
 
 ### 🚀 What I am up to
 
-- 🎙️ **[Rflow](https://github.com/karthi-ai-engineer/Rach_flow)**: hold Ctrl+Win, talk, it types. Offline, so your voice never leaves your laptop.
+- 🎙️ **[Rflow](https://github.com/karthi-ai-engineer/rflow-ai)**: hold Ctrl+Win, talk, it types. Offline, so your voice never leaves your laptop.
 - 🎥 **[TNLA RAG](https://github.com/karthi-ai-engineer/TNLA_RAG)**: ask 4 hours of Tamil Assembly video anything, and it jumps to the exact second.
 - 🎬 **[SceneFold](https://github.com/karthi-ai-engineer/SceneFold)**: many phones, one event, one synced story.
 - 🕸️ **[Knowledge Graph](https://github.com/karthi-ai-engineer/Knowledge-Graph-for-Unstructured-Data)**: messy PDFs in, clean knowledge graph out.
