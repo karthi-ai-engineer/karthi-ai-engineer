@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="84" viewBox="0 0 300 84" role="img" aria-label="Buy me a coffee">
+  <title>Buy me a coffee</title>
+  <style>
+    .glow { fill: #FFDD00; transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { 0% { opacity: .55; transform: scale(1, 1); } 70%, 100% { opacity: 0; transform: scale(1.08, 1.4); } }
+    .btn { animation: bob 2.4s ease-in-out infinite; }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-1.5px); } }
+    .steam { fill: none; stroke: #6F4E37; stroke-width: 2.2; stroke-linecap: round; opacity: 0; animation: rise 2.1s ease-in-out infinite; }
+    .s2 { animation-delay: .7s; } .s3 { animation-delay: 1.4s; }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(4px); } 35% { opacity: .9; } 100% { opacity: 0; transform: translateY(-8px); } }
+    text { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 700; }
+  </style>
+  <rect class="glow" x="12" y="14" width="276" height="56" rx="28"/>
+  <g class="btn">
+    <rect x="12" y="14" width="276" height="56" rx="28" fill="#FFDD00" stroke="#000" stroke-opacity=".12"/>
+    <g transform="translate(9 0)">
+    <path class="steam" d="M44 33c-3-3 3-5 0-9"/>
+    <path class="steam s2" d="M51 33c-3-3 3-5 0-9"/>
+    <path class="steam s3" d="M58 33c-3-3 3-5 0-9"/>
+    <path d="M37 37h28v11a11 11 0 0 1-11 11h-6a11 11 0 0 1-11-11z" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2.4" stroke-linejoin="round"/>
+    <path d="M40 41h22" stroke="#6F4E37" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M65 40h3a5 5 0 0 1 0 10h-3" fill="none" stroke="#1F1F1F" stroke-width="2.4"/>
+    <text x="84" y="49" font-size="20" fill="#1F1F1F">Buy me a coffee</text>
+    </g>
+  </g>
+</svg>
