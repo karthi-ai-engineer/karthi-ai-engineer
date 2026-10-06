@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Based_in-Tokyo,_Japan_%C2%B7_Chennai,_India-BC002D?style=for-the-badge" alt="Based in Tokyo, Japan and Chennai, India" />
   <a href="mailto:karthi.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/karthi04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://buymeacoffee.com/karthiaienq"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
 ---
@@ -68,6 +69,7 @@
 <p>
   <a href="https://www.linkedin.com/in/karthi04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:karthi.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://buymeacoffee.com/karthiaienq"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
 ### 📈 GitHub stats
